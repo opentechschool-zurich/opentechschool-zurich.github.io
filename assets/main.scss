@@ -1,0 +1,247 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/** copied from the minima's _layout.scss, with the mediaquery removed */
+.site-nav {
+    position: absolute;
+    top: 9px;
+    right: $spacing-unit / 2;
+    background-color: $background-color;
+    border: 1px solid $grey-color-light;
+    border-radius: 5px;
+    text-align: right;
+
+    label[for="nav-trigger"] {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 36px;
+      z-index: 2;
+      cursor: pointer;
+    }
+
+    .menu-icon {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 26px;
+      line-height: 0;
+      padding-top: 10px;
+      text-align: center;
+
+      > svg {
+        fill: $grey-color-dark;
+      }
+    }
+
+    input ~ .trigger {
+      clear: both;
+      display: none;
+    }
+
+    input:checked ~ .trigger {
+      display: block;
+      padding-bottom: 5px;
+    }
+
+    .page-link {
+      display: block;
+      padding: 5px 10px;
+
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+      margin-left: 20px;
+    }
+}
+
+.site-nav {
+  z-index: 2;
+}
+
+.lang-nav {
+  position: absolute;
+  top: 9px;
+  right: $spacing-unit + 36;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  color: $text-color;
+}
+
+.wrapper {
+  /* right align the drop down navigation to the content */
+  position:relative;
+}
+
+nav .trigger {
+  /* background-color: orange; */
+  text-align:left;
+  z-index:-100;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src:url('fonts/Montserrat-Regular.ttf');
+}
+
+.site-header {
+    border: none;
+}
+
+header.site-header a.site-title:hover {
+  text-decoration: none;
+}
+
+header.site-header a.site-title span {
+  font-size: 1em;
+  padding: 8px 13px;
+  text-decoration: none;
+  text-indent: 100%;
+  white-space: nowrap;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+}
+
+main {
+  h1, h2 {
+    font-family: "Montserrat";
+    font-weight:bold;
+  }
+  h2 {
+		margin-top: 20px;
+		font-size: 20px;
+	}
+
+	.posts {
+		h1 {
+			font-size: 16px;
+			a {
+				color: black;
+			}
+		}
+	}
+
+  ul {
+    margin: 0;
+    margin-bottom: 15px;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+  ul > li {
+    text-indent: 10px;
+  }
+  ul > li:before {
+    content: "- ";
+    text-indent: -10px;
+  }
+}
+
+a.sponsors-logo img {
+	max-width:200px;
+}
+
+div.event {
+  display:flex;
+  flex-direction:row;
+  margin-bottom:10px;
+  cursor:pointer;
+}
+
+div.event > .date
+{
+  display:flex;
+  flex-direction:column;
+  background-color:#f6f7f8;
+  border:1px solid rgba(46,62,72,.12);
+  border-radius:8px;
+  padding:8px;
+  min-width:36px;
+  min-height:36px;
+}
+div.event > .date > .day
+{
+  color: #085987;
+  font-family: "Montserrat";
+  font-size:16pt;
+  text-align:center;
+  font-weight:bold;
+}
+
+div.event > .date > .month
+{
+  color:rgb(102,112,122);
+  font-family: "Montserrat";
+  font-size:10pt;
+  text-align:center;
+  text-transform:uppercase;
+}
+
+div.event > .description
+{
+  padding:0px;
+  padding-left:10px;
+}
+
+div.event > .description::first-letter {
+  text-transform:uppercase;
+}
+
+div.event > .description > .date_time
+{ 
+  margin-top:0px;
+  margin-bottom:0px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  font-family: "Montserrat";
+  font-size:12pt;
+  line-height:1.6;
+  color:rgb(102,112,122);
+}
+
+div.event > .description > .title
+{
+  font-family: "Montserrat";
+  font-size:12pt;
+  margin-top:0px;
+  margin-bottom:0px;
+}
+
+
+header.site-header a.site-title span.ots {
+  background: #085987;
+  color: #fff;
+}
+
+img.book-cover {
+    max-height:100px;
+}
+
+img.circle {
+    overflow: hidden;
+    width: 89px;
+    border-radius: 45px;
+}
+
+ul.books {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.books > li {
+  text-indent: 10px;
+}
+
+ul.books > li:before {
+  content: "";
+  text-indent:0px;
+}
+
+ul.books li {
+    margin-bottom:1em;
+}
