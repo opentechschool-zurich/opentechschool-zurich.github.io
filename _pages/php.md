@@ -11,4 +11,4 @@ lang: en
 
 ## Using a framework
 
-- ![Laravel Tutorial für Anfänger | #1 Installation und Setup](https://www.youtube.com/watch?v=UCy2SWbUaGA)
+- [Laravel Tutorial für Anfänger, #1 Installation und Setup](https://www.youtube.com/watch?v=UCy2SWbUaGA)
