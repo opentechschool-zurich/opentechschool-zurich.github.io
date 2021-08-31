@@ -13,7 +13,7 @@ Most of the time, there are people in the room, who can help you with multiple p
 
 - [Java for Android](#java)
 - [Web: Html, Css and Javascript](#web)
-- [PHP](#php)
+- [Ruby](#ruby)
 - [C#](#csharp)
 - [SQL](#sql)
 - [Processing and p5js](#processing)
@@ -35,14 +35,10 @@ Most of the time, there are people in the room, who can help you with multiple p
 
 - [Meine erste Website](https://coderdojo-linz.github.io/trainingsanleitungen/web/html-meine-erste-webseite.html) vom [CoderDojo Linz](https://coderdojo-linz.github.io)
 
-{: #php}
-## PHP
+{: #ruby}
+## Ruby
 
-- Php and vue.js
-
-- Php and Wordpress
-
-- Php and Grav
+- [The Odin Project](https://www.theodinproject.com/)
 
 {: #csharp}
 ## C#

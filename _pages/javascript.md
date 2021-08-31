@@ -17,4 +17,4 @@ lang: en
 
 ## Frontend
 
-- ![The Vue.js Guide](https://vuejs.org/v2/guide/): Install and learn modern front end programming with [Vue.js](https://vuejs.org/v2/guide/)
+- ![The Vue.js Guide](https://vuejs.org/v2/guide/): Install and learn modern front end programming with [Vue.js](https://vuejs.org/v2/guide/) (The brand new [Vue 3 guide](https://v3.vuejs.org/guide/introduction.html))
