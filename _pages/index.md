@@ -9,7 +9,7 @@ lang: en
 
 # OpenTechSchool in Zürich
 
-OpenTechSchool is a [wordlwide community initiative](http://www.opentechschool.org/) offering free programming workshops and meetups to technology enthusiasts of all genders, backgrounds, and experience levels. OTS’ main goal is to create a friendly learning environment where no one feels shy about asking any question. Everyone is invited to participate, whether as a coach or a learner, and get in contact to organize new OTS events.
+OpenTechSchool is a [worldwide community initiative](http://www.opentechschool.org/) offering free programming workshops and meetups to technology enthusiasts of all genders, backgrounds, and experience levels. OTS’ main goal is to create a friendly learning environment where no one feels shy about asking any question. Everyone is invited to participate, whether as a coach or a learner, and get in contact to organize new OTS events.
 
 ## The Co-Learning groups
 
