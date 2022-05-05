@@ -7,7 +7,7 @@ Hey, I try to go back to writing small blog posts about our co-learning sessions
 
 Tonight, it was our second _in real life_ session: Nic and Ale were at Toniareal. Alexandru and Öikü participated online.
 
-The highlights of the sessions were a couple of C questions by Alexandru, related to his studies of the [osmocom-lib](https://github.com/osmocom/libosmocore/) code and Öikü exercises with sorting in C++.
+The highlights of the sessions were a couple of C questions by Alexandru, related to his studies of the [osmocom-bb](https://github.com/osmocom/libosmocore/) code and Öikü exercises with sorting in C++.
 
 On the C side we discovered the [`#`](https://gcc.gnu.org/onlinedocs/cpp/Stringizing.html#Stringizing) and [`##`](https://gcc.gnu.org/onlinedocs/cpp/Concatenation.html) preprocessing operators for [stringizing](https://gcc.gnu.org/onlinedocs/cpp/Stringizing.html#Stringizing) and [string concatenation](https://gcc.gnu.org/onlinedocs/cpp/Concatenation.html).
 
@@ -76,7 +76,7 @@ First, got through the basics of sorting, then discovered how to do a reverse so
 
 The usage of `std::greater` lead us to discuss the usage of anonymous functions (`[](...){return a > b;}`) for algorithms and, finally, how to sort a list of custom structure (by implementing the `<` operator and by using the anonymous function).
 
-As a follow up of the session, we also discussed `enum keyed lookup table` (in the context of osmocom-lib). This simpler snippet might be helpful for understanding how it works:
+As a follow up of the session, we also discussed `enum keyed lookup table` (in the context of osmocom-bb). This simpler snippet might be helpful for understanding how it works:
 
 ```c
 #include <stdio.h>
