@@ -32,12 +32,20 @@ There are several online resources we are currently recommending:
   [Think Python 2e](https://greenteapress.com/wp/think-python-2e/)  
   Introduction to Python programming for beginners.
 - [Learn Python in 10 minutes](https://www.stavros.io/tutorials/python/)
+- [How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html) (and [other resources by the Runestone Academy](https://runestoneinteractive.org/pages/library.html)
+- [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+- [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+## Online courses
+
+- [futurecoder](https://futurecoder.io/course/)
 
 ## Intermediate and advanced
 
 - [Intermediate Python](https://book.pythontips.com/en/latest/)
 - [Intermediate Python Programming](https://pythonprogramming.net/introduction-intermediate-python-tutorial/)
 - [Intermediate Python Tutorials](https://realpython.com/preview/python-deque/) (for members' only)
+- [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/): derived from the classic textbook [Structure and Interpretation of Computer Programs](http://www-mitpress.mit.edu/sicp/full-text/book/book.html) by Abelson, Sussman, and Sussman
 
 
 ## Python and PyGame
@@ -69,6 +77,9 @@ A good introductory exercise:
 
 - [PyQt5 tutorial: Learn how you can create a Python GUI in 2019.](https://build-system.fman.io/pyqt5-tutorial)
 
+## Virtual Environments
+
+- [Python Project Setup – Virtual Environments and Package Management](https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry)
 
 ## We're open for suggestions
 

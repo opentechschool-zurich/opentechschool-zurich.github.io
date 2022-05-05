@@ -27,6 +27,14 @@ Varia
 
 - [C++11/14/17 Infographics](https://www.walletfox.com/course/cheatsheets_cpp.php)
 
+## Qt
+
+- [Making A Cross Platform Mobile & Desktop App with Qt 6.2](https://16bpp.net/blog/post/making-a-cross-platform-mobile-desktop-app-with-qt-62/)
+
+## Learn by doing
+
+- [Writing a simple JSON library from scratch: a tour through modern C++](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html) ([Lobsters discussion](https://lobste.rs/s/29q0no/writing_simple_json_library_from_scratch), [HN discussion](https://news.ycombinator.com/item?id=28320818))
+
 ## We're open for suggestions
 
 We are looking for good tutorials for learning:
