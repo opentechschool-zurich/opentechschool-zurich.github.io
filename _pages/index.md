@@ -49,7 +49,7 @@ Our next events are published in our [Meetup group](https://www.meetup.com/opent
 <div id="meetupEvents"></div>
 <script src="/js/meetup.js"></script>
 
-## Our Activity
+## Our Past Activity
 
 If you're participating in our activities, You can contribute to our blog posts in [this collaborative document](https://hackmd.io/IgGBcIrTR_yJ33tp016FSw).
 
