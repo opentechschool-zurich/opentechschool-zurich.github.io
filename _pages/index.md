@@ -51,7 +51,7 @@ Our next events are published in our [Meetup group](https://www.meetup.com/opent
 
 ## Our Past Activity
 
-If you're participating in our activities, You can contribute to our blog posts in [this collaborative document](https://hackmd.io/IgGBcIrTR_yJ33tp016FSw).
+If you're participating in our activities, you can contribute to our blog posts in [this collaborative document](https://hackmd.io/IgGBcIrTR_yJ33tp016FSw).
 
 <div class="posts">
   {% for post in site.posts %}
