@@ -20,6 +20,12 @@ Most of the time, there are people in the room, who can help you with multiple p
 - [Lua and Löve](#love)
 - [Programming for Kids](#kids)
 
+## Flutter and Dart
+
+- [Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial](https://www.youtube.com/watch?v=VPvVD8t02U8)
+- [Dart Programming in 4 hours | Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w)
+- [Dart Apprentice](https://www.raywenderlich.com/books/dart-apprentice), a book by Jonathan Sande & Matt Galloway
+
 {: #android}
 ## Java for Android
 

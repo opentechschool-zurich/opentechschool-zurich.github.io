@@ -39,6 +39,7 @@ There are several online resources we are currently recommending:
 ## Online courses
 
 - [futurecoder](https://futurecoder.io/course/)
+- [Python programming tutorials](https://pythonprogramming.net/python-fundamental-tutorials/) by Harrison Kinsley
 
 ## Intermediate and advanced
 
