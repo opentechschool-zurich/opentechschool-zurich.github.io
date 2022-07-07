@@ -57,6 +57,7 @@ You can directly dive into [PyGame](https://www.pygame.org/news), or first learn
 
 ## Python, Jupyter and data science
 
+- [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 - [Kagle's  micro course for Python](https://www.kaggle.com/learn/python) and the [follow-ups for data sciense](https://www.kaggle.com/learn/overview)
 - [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
 
