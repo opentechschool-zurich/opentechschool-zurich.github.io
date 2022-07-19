@@ -95,3 +95,8 @@ Here is a list of common languages that we cannot support yet:
 - tcl/tk
 
 If you have any idea, how we could add them to our list, get in touch with us!
+
+## Algorithms
+
+- ![]({{ site.baseurl }}/assets/images/other/algorithms.png){: .book-cover}  
+  [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/)
